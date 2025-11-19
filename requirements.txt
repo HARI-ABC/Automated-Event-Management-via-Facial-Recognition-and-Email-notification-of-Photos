@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+face_recognition
+Pillow
+numpy
+opencv-python
+Flask-Mail
