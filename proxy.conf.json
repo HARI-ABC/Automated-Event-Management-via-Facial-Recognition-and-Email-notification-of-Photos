@@ -1,0 +1,19 @@
+{
+  "/upload_reference": {
+    "target": "http://localhost:5000",
+    "secure": false
+  },
+  "/upload_group_photos": {
+    "target": "http://localhost:5000",
+    "secure": false
+  },
+  "/analyze_photo": {
+    "target": "http://localhost:5000",
+    "secure": false
+  },
+  "/find_person": {
+    "target": "http://localhost:5000",
+    "secure": false
+  }
+}
+
